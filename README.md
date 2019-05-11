@@ -1,0 +1,2 @@
+# kataLog
+Log of Kata
