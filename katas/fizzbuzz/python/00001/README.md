@@ -7,5 +7,5 @@
 - Didn't attempt the use of any constraints
 
 ## Instructions
-Test: `python -m unittest fizzbuzzTest`
-Run: `python fizzBuzz.py`
+- Test: `python -m unittest fizzbuzzTest`
+- Run: `python fizzBuzz.py`
